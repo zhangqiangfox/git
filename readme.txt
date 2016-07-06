@@ -1,1 +1,2 @@
-this is my first demo
+Welcome to my github;
+Thank you for your support.
